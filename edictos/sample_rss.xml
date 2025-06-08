@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>BOE</title>
+<item>
+<title>Nombramiento de Administrador Concursal - EmpresaXYZ</title>
+<link>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-1234</link>
+<description>Texto del anuncio con email ac@example.com y telefono 123456789.</description>
+</item>
+<item>
+<title>Otro anuncio</title>
+<link>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-9999</link>
+<description>No relacionado</description>
+</item>
+</channel>
+</rss>

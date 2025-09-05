@@ -12,7 +12,8 @@ Estudiante de Especialización en IA & Big Data (Somorrostro 2025–2026) · Des
 
 
 🔗 Enlaces
-- 💼 LinkedIn: (www.linkedin.com/in/jon-medina-jaureguizar-a89935205)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jon-medina-jaureguizar-a89935205)
   
 - 🧪 Repos plantillas: [template-ml-project](#) · Demos: [ml-playground](#)
 
@@ -37,5 +38,4 @@ Estudiante de Especialización en IA & Big Data (Somorrostro 2025–2026) · Des
 - `nkzn-automation-templates` – *si público*, plantillas redacted.
 
 
- 🗓️ Ritmo y compromiso
-1 post/semana en LinkedIn + 1 push/semana a GitHub (aunque sea pequeño). La constancia > el tamaño del proyecto.
+ 

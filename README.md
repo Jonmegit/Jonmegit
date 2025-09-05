@@ -17,6 +17,15 @@ Estudiante de Especialización en IA & Big Data (Somorrostro 2025–2026) · Des
 - 🧪 Repos plantillas: [template-ml-project](#) · Demos: [ml-playground](#)
 
 
+
+ 🛠️ Lenguajes y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
  📌 Proyectos fijados
 - `somorrostro-ia-2025` – ejercicios y apuntes limpios.
 - `ml-playground` – mini‑experimentos de ML (regresión/clasificación, validación, métricas).

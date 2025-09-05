@@ -13,7 +13,8 @@ Estudiante de Especialización en IA & Big Data (Somorrostro 2025–2026) · Des
 
 🔗 Enlaces
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jon-medina-jaureguizar-a89935205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-medina-jaureguizar-a89935205/)
+
   
 - 🧪 Repos plantillas: [template-ml-project](#) · Demos: [ml-playground](#)
 

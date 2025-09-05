@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hola, soy Jon Medina
 
-<!--
-**Jonmegit/Jonmegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estudiante de Especialización en IA & Big Data (Somorrostro 2025–2026) · Desarrollo de aplicaciones · Automatización con IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Ahora: fortaleciendo bases de ML, estadística, Python y data engineering.
+- 🧪 Practico con notebooks cortos y proyectos pequeños pero reales.
+- 🧰 Herramientas: Python, Jupyter, Pandas, scikit‑learn, SQL, Docker básico.
+- 🤝 Colaboro puntualmente con NKZN Services y AutoIA360.
+- 📫 Contacto: jon@nkznservices.es
+
+
+🔗 Enlaces
+- 💼 LinkedIn: (www.linkedin.com/in/jon-medina-jaureguizar-a89935205)
+  
+- 🧪 Repos plantillas: [template-ml-project](#) · Demos: [ml-playground](#)
+
+
+ 📌 Proyectos fijados
+- `somorrostro-ia-2025` – ejercicios y apuntes limpios.
+- `ml-playground` – mini‑experimentos de ML (regresión/clasificación, validación, métricas).
+- `data-engineering-labs` – ETL sencillo, SQL, scraping ligero.
+- `notebooks-visual` – visualizaciones rápidas (matplotlib/plotly offline).
+- `autoia360-demos` – *si público*, prototipos de automatización.
+- `nkzn-automation-templates` – *si público*, plantillas redacted.
+
+
+ 🗓️ Ritmo y compromiso
+1 post/semana en LinkedIn + 1 push/semana a GitHub (aunque sea pequeño). La constancia > el tamaño del proyecto.
